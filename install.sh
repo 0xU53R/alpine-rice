@@ -74,7 +74,8 @@ EOF
 # ==============================
 # DEFAULT SHELL
 # ==============================
-chsh -s /bin/zsh $(whoami)
+apk add shadow >/dev/null 2>&1
+usermod -s /bin/zsh $(whoami)
 
 # ==============================
 # TMUX CONFIG
