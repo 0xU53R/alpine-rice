@@ -10,7 +10,7 @@ Run on a fresh system:
 
 ```sh
 apk add curl
-curl -fsSL https://raw.githubusercontent.com/USERNAME/alpine-rice/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/0xU53R/alpine-rice/main/install.sh | sh
 ```
 
 ---
