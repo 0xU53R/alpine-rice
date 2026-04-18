@@ -53,7 +53,6 @@ Root:
 
 ## Notes
 
-* No auto tmux start
 * Lightweight and fast
 * Works well on low-end systems
 
