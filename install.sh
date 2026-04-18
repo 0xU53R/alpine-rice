@@ -12,7 +12,7 @@ apk update >/dev/null && apk upgrade >/dev/null
 # ==============================
 # PACKAGES
 # ==============================
-apk add zsh tmux git curl nano vim htop openssh bash fastfetch >/dev/null
+apk add zsh tmux git curl nano vim htop openssh bash fastfetch nvim >/dev/null
 
 # ==============================
 # SSH
