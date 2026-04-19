@@ -42,7 +42,7 @@ doas apk add \
 # Utilities
 # ------------------------------
 doas apk add \
-    git zsh starship neofetch htop
+    git zsh starship fastfetch htop
 
 # ------------------------------
 # Fonts + themes
