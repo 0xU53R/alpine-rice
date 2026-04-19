@@ -48,7 +48,7 @@ doas apk add \
 # Fonts + themes
 # ------------------------------
 doas apk add \
-    font-dejavu font-noto papirus-icon-theme arc-theme
+    font-dejavu font-noto papirus-icon-theme 
 
 # ------------------------------
 # Enable services
