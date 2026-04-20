@@ -55,7 +55,7 @@ Root:
 
 * Lightweight and fast
 * Works well on low-end systems
-*Still in development[Might not work sometimes.]
+* Still in development[Might not work sometimes.]
 
 ---
 
